@@ -20,7 +20,7 @@ New to here, will try to update everything here.
 
 <!-- TOC -->
 
-- [HackTheBoxHTB-WriteUp](#hacktheboxhtb-writeup)
+- [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
 
 <!-- /TOC -->
