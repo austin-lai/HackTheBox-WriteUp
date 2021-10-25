@@ -32,7 +32,7 @@ A company that specializes in web development is creating a new site that is cur
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Under Construction - WriteUp](#hacktheboxhtb---under-construction---writeup)
+- [HackTheBox(HTB) - Under Construction - WriteUp](#hacktheboxhtb---under-construction---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
         - [Automate method using SQLMap along with forged JWT](#automate-method-using-sqlmap-along-with-forged-jwt)
