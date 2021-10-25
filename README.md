@@ -22,6 +22,7 @@ New to here, will try to update everything here.
 
 - [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
+    - [HackTheBox(HTB) - Under Construction - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Under%20Construction)
 
 <!-- /TOC -->
 
