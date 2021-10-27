@@ -1,7 +1,7 @@
 
 # HackTheBox(HTB) - Under Construction - WriteUp
 
-> Austin Lai | October 22nd, 2021
+> Austin Lai | October 25th, 2021
 
 ---
 
