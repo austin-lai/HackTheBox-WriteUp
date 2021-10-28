@@ -27,7 +27,7 @@ Can you encrypt fast enough?
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Emdee Five For Life - WriteUp](#hacktheboxhtb---emdee-five-for-life---writeup)
+- [HackTheBox(HTB) - Emdee Five For Life - WriteUp](#hacktheboxhtb---emdee-five-for-life---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
 
