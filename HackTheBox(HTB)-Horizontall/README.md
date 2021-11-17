@@ -19,7 +19,7 @@ The room is completed on November 05th, 2021
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Horizontall - WriteUp](#hacktheboxhtb---horizontall---writeup)
+- [HackTheBox(HTB) - Horizontall - WriteUp](#hacktheboxhtb---horizontall---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
 
@@ -164,7 +164,7 @@ strapi@horizontall:/home/developer$ cat user.txt
 cat user.txt
 ```
 
-We perform basic enumeration and along the `netstat` command, there is a strange port 8000 is listening on 127.0.0.1.
+We perform basic enumeration and along with the `netstat` command, there is a strange port 8000 is listening on 127.0.0.1.
 
 ```bash
 strapi@horizontall:~/myapi$ netstat -naot
