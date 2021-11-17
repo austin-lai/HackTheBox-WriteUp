@@ -27,7 +27,7 @@ Customers of secure-startup.com have been receiving some very convincing phishin
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Easy Phish - WriteUp](#hacktheboxhtb---easy-phish---writeup)
+- [HackTheBox(HTB) - Easy Phish - WriteUp](#hacktheboxhtb---easy-phish---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
         - [To get the flag](#to-get-the-flag)
