@@ -21,7 +21,7 @@ We have got informed that a hacker managed to get into our internal network afte
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - MarketDump - WriteUp](#hacktheboxhtb---marketdump---writeup)
+- [HackTheBox(HTB) - MarketDump - WriteUp](#hacktheboxhtb---marketdump---writeup)
     - [Let's Begin Here !!!](#lets-begin-here-)
 
 <!-- /TOC -->
