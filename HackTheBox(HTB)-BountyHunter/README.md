@@ -254,11 +254,11 @@ main()
 
 Based on the context of the script, we can supply our own markdown file with malicious payload.
 
-If you carefully examine the script, there is a python evaluate statement, mean we can execute command using python evaluate statement.
+If you carefully examine the script, there is a python eval statement.
 
 In order to craft a valid markdown file to supply to the script, there are a few things to be included.
 
-The markdown file must contain below as the script will validate the exact contain:
+The markdown file must contain below as the script will validate the exact content:
 
 ```
 # Skytrain Inc 
