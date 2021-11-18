@@ -272,7 +272,7 @@ The last part is calculation, the code we craft must start with ** and able to M
 **102+ 10 == 112 
 ```
 
-Then we append our payload after the code with ` and ` operator, python evaluate statement will process anything after ` and ` operator.
+Then we append our payload after the code, since eval() would take user-provided input and execute it as Python code.
 
 Our final content of the markdown file will be:
 
