@@ -22,6 +22,7 @@ New to here, will try to update everything here.
 
 - [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
+    - [HackTheBox(HTB) - BountyHunter - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-BountyHunter)
     - [HackTheBox(HTB) - MarketDump - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Market%20Dump)
     - [HackTheBox(HTB) - Emdee Five For Life - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Emdee%20Five%20For%20Life)
     - [HackTheBox(HTB) - Under Construction - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Under%20Construction)
