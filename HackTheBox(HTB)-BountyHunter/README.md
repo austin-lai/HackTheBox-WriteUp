@@ -19,7 +19,7 @@ The room is completed on November 03rd, 2021
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - BountyHunter - WriteUp](#hacktheboxhtb---bountyhunter---writeup)
+- [HackTheBox(HTB) - BountyHunter - WriteUp](#hacktheboxhtb---bountyhunter---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
 
