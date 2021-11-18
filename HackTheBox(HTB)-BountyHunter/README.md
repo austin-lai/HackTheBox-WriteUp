@@ -272,6 +272,8 @@ The last part is calculation, the code we craft must start with ** and able to M
 **102+ 10 == 112 
 ```
 
+You might wonder why the above calculation work? If you examine the script carefully right before the if statement, there is a split !
+
 Then we append our payload after the code, since eval() would take user-provided input and execute it as Python code.
 
 Our final content of the markdown file will be:
