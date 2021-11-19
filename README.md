@@ -2,7 +2,7 @@
 
 > Austin Lai | Oct 24th, 2021
 
-> Last Update | Nov 18th, 2021
+> Last Update | Nov 19th, 2021
 
 ---
 
@@ -22,6 +22,7 @@ New to here, will try to update everything here.
 
 - [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
+    - [HackTheBox(HTB) - Writer - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Writer)
     - [HackTheBox(HTB) - BountyHunter - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-BountyHunter)
     - [HackTheBox(HTB) - MarketDump - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Market%20Dump)
     - [HackTheBox(HTB) - Emdee Five For Life - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Emdee%20Five%20For%20Life)
