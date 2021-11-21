@@ -13,6 +13,13 @@ Difficulty: Easy
 
 The room is completed on November 05th, 2021
 
+Revisit again on 21st Nov
+- After giving another tried with gobuster - medium list.
+- There is admin portal with sqli. Very basic sqli though.
+- Then you can get the password for a user.
+- However, unable to gain foothold using file upload ... Not sure ....
+
+
 <!-- /Description -->
 
 ## Table of Contents
