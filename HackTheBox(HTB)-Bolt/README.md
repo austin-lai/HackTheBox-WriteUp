@@ -19,7 +19,7 @@ The room is completed on November 25th, 2021
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Bolt - WriteUp](#hacktheboxhtb---bolt---writeup)
+- [HackTheBox(HTB) - Bolt - WriteUp](#hacktheboxhtb---bolt---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
         - [Network Reconnaissance](#network-reconnaissance)
