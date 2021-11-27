@@ -22,6 +22,7 @@ New to here, will try to update everything here.
 
 - [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
+    - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
     - [HackTheBox(HTB) - Writer - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Writer)
     - [HackTheBox(HTB) - BountyHunter - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-BountyHunter)
     - [HackTheBox(HTB) - MarketDump - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Market%20Dump)
