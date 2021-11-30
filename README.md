@@ -2,7 +2,7 @@
 
 > Austin Lai | Oct 24th, 2021
 
-> Last Update | Nov 29th, 2021
+> Last Update | Nov 30th, 2021
 
 ---
 
@@ -23,6 +23,7 @@ New to here, will try to update everything here.
 - [HackTheBox(HTB)-WriteUp](#hacktheboxhtb-writeup)
     - [Table of Contents](#table-of-contents)
     - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
+    - [HackTheBox(HTB) - Devzat - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Devzat)
     - [HackTheBox(HTB) - Forge - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Forge)
     - [HackTheBox(HTB) - Writer - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Writer)
     - [HackTheBox(HTB) - BountyHunter - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-BountyHunter)
