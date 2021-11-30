@@ -19,7 +19,7 @@ The room is completed on November 30th, 2021
 
 <!-- TOC -->
 
-- [HackTheBoxHTB - Devzat - WriteUp](#hacktheboxhtb---devzat---writeup)
+- [HackTheBox(HTB) - Devzat - WriteUp](#hacktheboxhtb---devzat---writeup)
     - [Table of Contents](#table-of-contents)
     - [Let's Begin Here !!!](#lets-begin-here-)
         - [Network Reconnaissance](#network-reconnaissance)
